@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Freelance_Projeect_xmls_Tester</string>
+    <string name="_60_bps"><![CDATA[<60 BPS]]></string>
+    <string name="_16_0"><![CDATA[<16.0]]></string>
+
+
+    <string-array name="date_time_array">
+        <item>Dec 12, 13:52</item>
+        <item>Dec 13, 13:52</item>
+        <item>Dec 14, 13:52</item>
+        <item>Dec 15, 13:52</item>
+        <item>Dec 16, 13:52</item>
+        <item>Dec 17, 13:52</item>
+        <item>Dec 18, 13:52</item>
+        <item>Dec 19, 13:52</item>
+        <item>Dec 20, 13:52</item>
+        <item>Dec 21, 13:52</item>
+        <item>Dec 22, 13:52</item>
+        <item>Another Date/Time</item>
+        <!-- Add more date/time items here as needed -->
+    </string-array>
+
+
+    <string-array name="weight_array">
+        <item>Weight (ibs)</item>
+        <item>kg</item>
+        <item>lbs</item>
+    </string-array>
+    <string-array name="height_array">
+        <item>Height (ft - in)</item>
+        <item>cm</item>
+        <item>ft-in</item>
+    </string-array>
+    <string-array name="weight_count_array">
+        <item>132</item>
+        <item>120</item>
+        <item>130</item>
+        <item>123</item>
+    </string-array>
+    <string-array name="height_count_array">
+        <item>6ft -4in</item>
+        <item>5ft -6in</item>
+        <item>5ft -5in</item>
+        <item>4ft -7in</item>
+
+    </string-array>
+    <string-array name="gender_array">
+        <item>gender</item>
+        <item>male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="age_array">
+        <item>Age</item>
+        <item>Age  16</item>
+        <item>Age  15</item>
+        <item>Age  13</item>
+        <item>Age  12</item>
+        <item>Age  11</item>
+        <item>Age  10</item>
+    </string-array>
+
+</resources>

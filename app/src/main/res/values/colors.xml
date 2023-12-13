@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#A8A2A2</color>
+    <color name="light_grey">#D6D4D4</color>
+    <color name="red">#FF0000</color>
+    <color name="mainBg">#f4f9ff</color>
+    <color name="secondCardColor">#d5eaff</color>
+    <color name="textColor">#ff4270</color>
+    <color name="spinnerBgColor">#EEC3CF</color>
+    <color name="firstCardcolor">#ffeaef</color>
+    <color name="overColor">#05BAB3</color>
+    <color name="blue">#108BED</color>
+</resources>
