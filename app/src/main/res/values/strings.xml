@@ -2,6 +2,10 @@
     <string name="app_name">Freelance_Projeect_xmls_Tester</string>
     <string name="_60_bps"><![CDATA[<60 BPS]]></string>
     <string name="_16_0"><![CDATA[<16.0]]></string>
+    <string name="x2265">≥</string>
+    <string name="unit_mg_dl">Unit : mg/dl</string>
+    <string name="greater"><![CDATA[<]]></string>
+    <string name="_4_0_5_5_7_0">4.0                     5.5                     7.0</string>
 
 
     <string-array name="date_time_array">

@@ -12,4 +12,7 @@
     <color name="firstCardcolor">#ffeaef</color>
     <color name="overColor">#05BAB3</color>
     <color name="blue">#108BED</color>
+    <color name="darkgreen">#439E46</color>
+    <color name="dateBlue">#2E88CF</color>
+
 </resources>

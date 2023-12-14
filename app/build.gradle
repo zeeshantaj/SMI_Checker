@@ -38,4 +38,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
 
     implementation "com.ncorti:slidetoact:0.11.0"
+    implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
+    implementation 'com.github.furkankaplan:fk-blur-view-android:1.0.1'
+
 }

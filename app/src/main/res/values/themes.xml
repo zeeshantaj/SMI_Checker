@@ -32,7 +32,7 @@
     </style>
 
     <style name="CardView.Custom" parent="Widget.MaterialComponents.CardView">
-      <item name="android:background">@drawable/radius_card_bg</item>
+      <item name="android:background"></item>
     </style>
     
 

@@ -255,8 +255,7 @@
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:background="@drawable/radius_card_bg2">
+            android:layout_height="match_parent">
 
             <TextView
                 android:id="@+id/yourBmi"
@@ -412,189 +411,189 @@
                     android:layout_gravity="center"
                     android:gravity="center">
 
-                    <View
-                        android:id="@+id/pt1"
-                        android:layout_width="30dp"
-                        android:layout_height="10dp"
-                        android:layout_gravity="center"
-                        android:layout_marginStart="5dp"
-                        android:layout_marginEnd="5dp"
+<!--                    <View-->
+<!--                        android:id="@+id/pt1"-->
+<!--                        android:layout_width="30dp"-->
+<!--                        android:layout_height="10dp"-->
+<!--                        android:layout_gravity="center"-->
+<!--                        android:layout_marginStart="5dp"-->
+<!--                        android:layout_marginEnd="5dp"-->
 
-                        android:background="@drawable/pointer1" />
+<!--                        android:background="@drawable/pointer1" />-->
 
-                    <View
-                        android:id="@+id/pt2"
-                        android:layout_width="30dp"
-                        android:layout_height="10dp"
-                        android:layout_gravity="center"
-                        android:layout_marginStart="5dp"
-                        android:layout_marginEnd="5dp"
-                        android:layout_toEndOf="@+id/pt1"
-                        android:background="@drawable/pointer2" />
+<!--                    <View-->
+<!--                        android:id="@+id/pt2"-->
+<!--                        android:layout_width="30dp"-->
+<!--                        android:layout_height="10dp"-->
+<!--                        android:layout_gravity="center"-->
+<!--                        android:layout_marginStart="5dp"-->
+<!--                        android:layout_marginEnd="5dp"-->
+<!--                        android:layout_toEndOf="@+id/pt1"-->
+<!--                        android:background="@drawable/pointer2" />-->
 
-                    <View
-                        android:id="@+id/pt3"
-                        android:layout_width="30dp"
-                        android:layout_height="10dp"
-                        android:layout_gravity="center"
-                        android:layout_marginStart="5dp"
-                        android:layout_marginEnd="5dp"
-                        android:layout_toEndOf="@id/pt2"
-                        android:background="@drawable/pointer3" />
+<!--                    <View-->
+<!--                        android:id="@+id/pt3"-->
+<!--                        android:layout_width="30dp"-->
+<!--                        android:layout_height="10dp"-->
+<!--                        android:layout_gravity="center"-->
+<!--                        android:layout_marginStart="5dp"-->
+<!--                        android:layout_marginEnd="5dp"-->
+<!--                        android:layout_toEndOf="@id/pt2"-->
+<!--                        android:background="@drawable/pointer3" />-->
 
-                    <View
-                        android:id="@+id/pt4"
-                        android:layout_width="30dp"
-                        android:layout_height="10dp"
-                        android:layout_gravity="center"
-                        android:layout_marginStart="5dp"
-                        android:layout_marginEnd="5dp"
-                        android:layout_toEndOf="@id/pt3"
-                        android:background="@drawable/pointer4" />
+<!--                    <View-->
+<!--                        android:id="@+id/pt4"-->
+<!--                        android:layout_width="30dp"-->
+<!--                        android:layout_height="10dp"-->
+<!--                        android:layout_gravity="center"-->
+<!--                        android:layout_marginStart="5dp"-->
+<!--                        android:layout_marginEnd="5dp"-->
+<!--                        android:layout_toEndOf="@id/pt3"-->
+<!--                        android:background="@drawable/pointer4" />-->
 
-                    <View
-                        android:id="@+id/pt5"
-                        android:layout_width="30dp"
-                        android:layout_height="10dp"
-                        android:layout_gravity="center"
-                        android:layout_marginStart="5dp"
-                        android:layout_marginEnd="5dp"
-                        android:layout_toEndOf="@id/pt4"
-                        android:background="@drawable/pointer5" />
+<!--                    <View-->
+<!--                        android:id="@+id/pt5"-->
+<!--                        android:layout_width="30dp"-->
+<!--                        android:layout_height="10dp"-->
+<!--                        android:layout_gravity="center"-->
+<!--                        android:layout_marginStart="5dp"-->
+<!--                        android:layout_marginEnd="5dp"-->
+<!--                        android:layout_toEndOf="@id/pt4"-->
+<!--                        android:background="@drawable/pointer5" />-->
 
-                    <View
-                        android:id="@+id/pt6"
-                        android:layout_width="30dp"
-                        android:layout_height="10dp"
-                        android:layout_gravity="center"
-                        android:layout_marginStart="5dp"
-                        android:layout_marginEnd="5dp"
-                        android:layout_toEndOf="@id/pt5"
-                        android:background="@drawable/pointer6" />
+<!--                    <View-->
+<!--                        android:id="@+id/pt6"-->
+<!--                        android:layout_width="30dp"-->
+<!--                        android:layout_height="10dp"-->
+<!--                        android:layout_gravity="center"-->
+<!--                        android:layout_marginStart="5dp"-->
+<!--                        android:layout_marginEnd="5dp"-->
+<!--                        android:layout_toEndOf="@id/pt5"-->
+<!--                        android:background="@drawable/pointer6" />-->
 
-                    <View
-                        android:id="@+id/pt7"
-                        android:layout_width="30dp"
-                        android:layout_height="10dp"
-                        android:layout_gravity="center"
-                        android:layout_marginStart="5dp"
-                        android:layout_marginEnd="5dp"
-                        android:layout_toEndOf="@id/pt6"
-                        android:background="@drawable/pointer7" />
+<!--                    <View-->
+<!--                        android:id="@+id/pt7"-->
+<!--                        android:layout_width="30dp"-->
+<!--                        android:layout_height="10dp"-->
+<!--                        android:layout_gravity="center"-->
+<!--                        android:layout_marginStart="5dp"-->
+<!--                        android:layout_marginEnd="5dp"-->
+<!--                        android:layout_toEndOf="@id/pt6"-->
+<!--                        android:background="@drawable/pointer7" />-->
 
-                    <View
-                        android:id="@+id/pt8"
-                        android:layout_width="30dp"
-                        android:layout_height="10dp"
-                        android:layout_gravity="center"
-                        android:layout_marginStart="5dp"
-                        android:layout_marginEnd="5dp"
-                        android:layout_toEndOf="@id/pt7"
-                        android:background="@drawable/pointer8" />
+<!--                    <View-->
+<!--                        android:id="@+id/pt8"-->
+<!--                        android:layout_width="30dp"-->
+<!--                        android:layout_height="10dp"-->
+<!--                        android:layout_gravity="center"-->
+<!--                        android:layout_marginStart="5dp"-->
+<!--                        android:layout_marginEnd="5dp"-->
+<!--                        android:layout_toEndOf="@id/pt7"-->
+<!--                        android:background="@drawable/pointer8" />-->
 
-                    <ImageView
-                        android:id="@+id/indicatorArrow"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_below="@id/pt2"
-                        android:scaleType="centerCrop"
-                        android:layout_alignStart="@+id/pt2"
-                        android:layout_alignEnd="@+id/pt2"
-                        android:src="@drawable/up_arrow" />
+<!--                    <ImageView-->
+<!--                        android:id="@+id/indicatorArrow"-->
+<!--                        android:layout_width="wrap_content"-->
+<!--                        android:layout_height="wrap_content"-->
+<!--                        android:layout_below="@id/pt2"-->
+<!--                        android:scaleType="centerCrop"-->
+<!--                        android:layout_alignStart="@+id/pt2"-->
+<!--                        android:layout_alignEnd="@+id/pt2"-->
+<!--                        android:src="@drawable/up_arrow" />-->
 
                 </RelativeLayout>
             </LinearLayout>
 
-            <TextView
-                android:id="@+id/text1"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="15dp"
-                android:drawableStart="@drawable/right_arrow"
-                android:text=" Very severely underweight"
-                android:textColor="@color/grey"
-                android:textSize="16sp"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/ptContainer" />
+<!--            <TextView-->
+<!--                android:id="@+id/text1"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_margin="15dp"-->
+<!--                android:drawableStart="@drawable/right_arrow"-->
+<!--                android:text=" Very severely underweight"-->
+<!--                android:textColor="@color/grey"-->
+<!--                android:textSize="16sp"-->
+<!--                app:layout_constraintStart_toStartOf="parent"-->
+<!--                app:layout_constraintTop_toBottomOf="@+id/ptContainer" />-->
 
-            <TextView
-                android:id="@+id/text2"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:drawableStart="@drawable/right_arrow1"
-                android:text=" severely underweight"
-                android:textColor="@color/grey"
-                android:textSize="16sp"
-                app:layout_constraintStart_toStartOf="@id/text1"
-                app:layout_constraintTop_toBottomOf="@id/text1" />
+<!--            <TextView-->
+<!--                android:id="@+id/text2"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:drawableStart="@drawable/right_arrow1"-->
+<!--                android:text=" severely underweight"-->
+<!--                android:textColor="@color/grey"-->
+<!--                android:textSize="16sp"-->
+<!--                app:layout_constraintStart_toStartOf="@id/text1"-->
+<!--                app:layout_constraintTop_toBottomOf="@id/text1" />-->
 
-            <TextView
-                android:id="@+id/text3"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:drawableStart="@drawable/right_arrow2"
-                android:text=" underweight"
-                android:textColor="@color/grey"
-                android:textSize="16sp"
-                app:layout_constraintStart_toStartOf="@id/text2"
-                app:layout_constraintTop_toBottomOf="@id/text2" />
+<!--            <TextView-->
+<!--                android:id="@+id/text3"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:drawableStart="@drawable/right_arrow2"-->
+<!--                android:text=" underweight"-->
+<!--                android:textColor="@color/grey"-->
+<!--                android:textSize="16sp"-->
+<!--                app:layout_constraintStart_toStartOf="@id/text2"-->
+<!--                app:layout_constraintTop_toBottomOf="@id/text2" />-->
 
-            <TextView
-                android:id="@+id/text4"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:drawableStart="@drawable/right_arrow3"
-                android:text=" Normal"
-                android:textColor="@color/grey"
-                android:textSize="16sp"
-                app:layout_constraintStart_toStartOf="@id/text3"
-                app:layout_constraintTop_toBottomOf="@id/text3" />
+<!--            <TextView-->
+<!--                android:id="@+id/text4"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:drawableStart="@drawable/right_arrow3"-->
+<!--                android:text=" Normal"-->
+<!--                android:textColor="@color/grey"-->
+<!--                android:textSize="16sp"-->
+<!--                app:layout_constraintStart_toStartOf="@id/text3"-->
+<!--                app:layout_constraintTop_toBottomOf="@id/text3" />-->
 
-            <TextView
-                android:id="@+id/text5"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:drawableStart="@drawable/right_arrow4"
-                android:text=" Overweight"
-                android:textColor="@color/grey"
-                android:textSize="16sp"
-                app:layout_constraintStart_toStartOf="@id/text4"
-                app:layout_constraintTop_toBottomOf="@id/text4" />
+<!--            <TextView-->
+<!--                android:id="@+id/text5"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:drawableStart="@drawable/right_arrow4"-->
+<!--                android:text=" Overweight"-->
+<!--                android:textColor="@color/grey"-->
+<!--                android:textSize="16sp"-->
+<!--                app:layout_constraintStart_toStartOf="@id/text4"-->
+<!--                app:layout_constraintTop_toBottomOf="@id/text4" />-->
 
-            <TextView
-                android:id="@+id/text6"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:drawableStart="@drawable/right_arrow6"
-                android:text=" Obese Class - l"
-                android:textColor="@color/grey"
-                android:textSize="16sp"
-                app:layout_constraintStart_toStartOf="@id/text5"
-                app:layout_constraintTop_toBottomOf="@id/text5" />
+<!--            <TextView-->
+<!--                android:id="@+id/text6"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:drawableStart="@drawable/right_arrow6"-->
+<!--                android:text=" Obese Class - l"-->
+<!--                android:textColor="@color/grey"-->
+<!--                android:textSize="16sp"-->
+<!--                app:layout_constraintStart_toStartOf="@id/text5"-->
+<!--                app:layout_constraintTop_toBottomOf="@id/text5" />-->
 
-            <TextView
-                android:id="@+id/text7"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:drawableStart="@drawable/right_arrow7"
-                android:text=" Obese Class - ll"
-                android:textColor="@color/grey"
-                android:textSize="16sp"
-                app:layout_constraintStart_toStartOf="@id/text6"
-                app:layout_constraintTop_toBottomOf="@id/text6" />
+<!--            <TextView-->
+<!--                android:id="@+id/text7"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:drawableStart="@drawable/right_arrow7"-->
+<!--                android:text=" Obese Class - ll"-->
+<!--                android:textColor="@color/grey"-->
+<!--                android:textSize="16sp"-->
+<!--                app:layout_constraintStart_toStartOf="@id/text6"-->
+<!--                app:layout_constraintTop_toBottomOf="@id/text6" />-->
 
-            <TextView
-                android:id="@+id/text8"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="20dp"
-                android:drawableStart="@drawable/right_arrow8"
-                android:text=" Obese Class - lll"
-                android:textColor="@color/grey"
-                android:textSize="16sp"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintStart_toStartOf="@id/text7"
-                app:layout_constraintTop_toBottomOf="@id/text7" />
+<!--            <TextView-->
+<!--                android:id="@+id/text8"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginBottom="20dp"-->
+<!--                android:drawableStart="@drawable/right_arrow8"-->
+<!--                android:text=" Obese Class - lll"-->
+<!--                android:textColor="@color/grey"-->
+<!--                android:textSize="16sp"-->
+<!--                app:layout_constraintBottom_toBottomOf="parent"-->
+<!--                app:layout_constraintStart_toStartOf="@id/text7"-->
+<!--                app:layout_constraintTop_toBottomOf="@id/text7" />-->
 
             <TextView
                 android:id="@+id/t1"
