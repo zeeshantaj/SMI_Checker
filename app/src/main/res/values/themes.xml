@@ -34,7 +34,8 @@
     <style name="CardView.Custom" parent="Widget.MaterialComponents.CardView">
       <item name="android:background"></item>
     </style>
-    
 
-    <style name="Theme.Freelance_Projeect_xmls_Tester" parent="Base.Theme.Freelance_Projeect_xmls_Tester" />
+
+    <style name="Theme.Freelance_Projeect_xmls_Tester" parent="Base.Theme.Freelance_Projeect_xmls_Tester"/>
+
 </resources>

@@ -13,6 +13,7 @@
     <color name="overColor">#05BAB3</color>
     <color name="blue">#108BED</color>
     <color name="darkgreen">#439E46</color>
-    <color name="dateBlue">#2E88CF</color>
+    <color name="dateBlue">#4f83f6</color>
+    <color name="monitorCardColor">#ecf3fd</color>
 
 </resources>
